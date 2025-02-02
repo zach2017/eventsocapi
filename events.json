@@ -1,0 +1,58 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "date": "02/15/2025",
+        "title": "Spring Tennis Championship",
+        "type": "tennis",
+        "location": "Central Court Arena",
+        "link": "/tennis-championship",
+        "description": "Annual tennis championship featuring both singles and doubles matches. Open to all skill levels."
+      },
+      {
+        "id": 2,
+        "date": "02/20/2025",
+        "title": "Pickleball Tournament Series",
+        "type": "pickleball",
+        "location": "Community Sports Center",
+        "link": "/pickleball-series",
+        "description": "Monthly pickleball tournament with rotating partners. Great for networking and improving your game."
+      },
+      {
+        "id": 3,
+        "date": "03/01/2025",
+        "title": "Beach Volleyball Classic",
+        "type": "volleyball",
+        "location": "Sunset Beach Courts",
+        "link": "/volleyball-classic",
+        "description": "Weekend beach volleyball tournament with professional exhibition matches."
+      },
+      {
+        "id": 4,
+        "date": "03/10/2025",
+        "title": "Mixed Doubles Tennis Open",
+        "type": "tennis",
+        "location": "Tennis Club East",
+        "link": "/mixed-doubles",
+        "description": "Mixed doubles tournament with prize pool and refreshments provided."
+      },
+      {
+        "id": 5,
+        "date": "03/15/2025",
+        "title": "Pickleball Skills Workshop",
+        "type": "pickleball",
+        "location": "Indoor Sports Complex",
+        "link": "/pickleball-workshop",
+        "description": "Learn advanced pickleball techniques from certified instructors."
+      },
+      {
+        "id": 6,
+        "date": "03/25/2025",
+        "title": "Indoor Volleyball League",
+        "type": "volleyball",
+        "location": "Sports Center West",
+        "link": "/volleyball-league",
+        "description": "8-week indoor volleyball league with divisions for all skill levels."
+      }
+    ]
+  }
